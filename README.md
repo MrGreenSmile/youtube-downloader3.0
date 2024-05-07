@@ -1,6 +1,6 @@
-# youtube downloader 2.0
+# youtube downloader 3.0
 
-used pytube.
+pytube used.
 
 > GUI.py is providing gui with tkinter.
 >
@@ -11,7 +11,8 @@ used pytube.
 ## how-to-use
 ![youtube downloader](/tutorial.png)
 
-0. put youtube video's url.
-1. choose mp4 or mp3(audio only).
-2. checkout thumbnail if you wanna get thumbnail.
-3. press '여!' to download.
+0. download exe and icon files. (you don't need to download or set directories './video' and './audio')
+1. put youtube video's url.
+2. choose mp4 or mp3(audio only).
+3. checkout thumbnail if you wanna get thumbnail.
+4. press '여!' to download.
