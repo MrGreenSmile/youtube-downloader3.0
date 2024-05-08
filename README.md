@@ -15,4 +15,4 @@ pytube used.
 1. put youtube video's url.
 2. choose mp4 or mp3(audio only).
 3. checkout thumbnail if you wanna get thumbnail.
-4. press '여!' to download.
+4. press '여!' to download. (don't panic if program stopped, wait a moment and it will done.)
